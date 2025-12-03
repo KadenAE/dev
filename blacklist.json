@@ -1,0 +1,19 @@
+{
+  "defaultBanReason": "You have been blacklisted from this server.",
+  "users": [
+    { 
+      "id": 12345678, 
+      "reason": "Banned for exploiting logs on 12/05." 
+    },
+    { 
+      "id": 87654321, 
+      "reason": "Harassment."
+    }
+  ],
+  "groups": [
+    { 
+      "id": 32889454, 
+      "reason": "Swift Shopping is blacklisted" 
+    }
+  ]
+}
