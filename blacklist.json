@@ -1,19 +1,23 @@
 {
-  "defaultBanReason": "You have been blacklisted from this server.",
+  "defaultBanReason": "Blacklisted",
   "users": [
     { 
-      "id": 12345678, 
-      "reason": "Banned for exploiting logs on 12/05." 
+      "id": 1586337939, 
+      "reason": null
     },
     { 
-      "id": 87654321, 
-      "reason": "Harassment."
+      "id": 2567846806, 
+      "reason": null
+    },
+    { 
+      "id": 527265265, 
+      "reason": null
     }
   ],
   "groups": [
     { 
-      "id": 32889454, 
-      "reason": "'Swift Shopping Corporation (32889454)' is blacklisted from accessing experiences using frixion products. Please leave this group to join the game."
+      "id": 0, 
+      "reason": "Test blacklist group."
     }
   ]
 }
