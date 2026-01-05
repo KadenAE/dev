@@ -1,18 +1,7 @@
 {
   "defaultBanReason": "Blacklisted",
   "users": [
-    { 
-      "id": 1586337939, 
-      "reason": null
-    },
-    { 
-      "id": 527265265, 
-      "reason": null
-    },
-        { 
-      "id": 1300267101, 
-      "reason": null
-    }
+    {}
   ],
   "groups": [
     { 
