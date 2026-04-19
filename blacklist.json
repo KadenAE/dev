@@ -1,12 +1,15 @@
 {
   "defaultBanReason": "Blacklisted",
   "users": [
-    {}
+    {
+      "id": 617126032,
+      "reason": "Breaking frixion's Terms of Service"
+    }
   ],
   "groups": [
     { 
-      "id": 0, 
-      "reason": "Test blacklist group."
+      "id": 34657480, 
+      "reason": "Ferr's Development / Modern Solutions"
     }
   ]
 }
